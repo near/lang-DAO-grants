@@ -6,6 +6,7 @@ Finally once completed you propose a grant here for AssemblyScript: https://sput
 
 Lastly you cannot work on multiple grants at once to allow others to get a chance.
 
+## Grants
 
 Check out [the issues to see open grants](https://github.com/near/grants/issues?q=is%3Aopen+is%3Aissue+label%3A%22Open+Grant%22).
 From initial set of grants [here](https://gov.near.org/t/assemblyscript-grant-q1-2021/697).
