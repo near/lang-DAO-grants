@@ -2,7 +2,7 @@ Collection of grants around language support on NEAR available and a place to pr
 
 To claim a grant post a comment in the issue, open a work in progress PR to the relevant project and post it.  The issue then will move from open to pending.
 
-Finally completed you propose a grant here: https://sputnik.fund/#/assemblyscript.sputnikdao.near.
+Finally once completed you propose a grant here for AssemblyScript: https://sputnik.fund/#/assemblyscript.sputnikdao.near.
 
 Lastly you cannot work on multiple grants at once to allow others to get a chance.
 
